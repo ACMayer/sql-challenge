@@ -1,8 +1,13 @@
 # sql-challenge
 **Module 9 sql-challenge**
+
 The ERD sketch of the tables was used using QuickDBD, a pdf along with a screenshot of the ERD,which includes coding to the left handside, has been provided. 
 The database in question relates to Pewlett Hackard's employees during the 1980's and 1990's. 
+
+
 **Data Analysis**
+
+
 Each of the questions below has been answered using an sql query and has been provided above with the respective question number as name of each file.
 1)List the employee number, last name, first name, sex, and salary of each employee.
 
